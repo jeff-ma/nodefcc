@@ -1,6 +1,6 @@
 {
   "name": "@root/nodefcc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "my new project",
   "main": "index.js",
   "scripts": {
