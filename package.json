@@ -1,0 +1,26 @@
+{
+  "name": "@root/nodefcc",
+  "version": "1.0.0",
+  "description": "my new project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "hi"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeff-ma/nodefcc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeff-ma/nodefcc/issues"
+  },
+  "homepage": "https://github.com/jeff-ma/nodefcc#readme"
+}
